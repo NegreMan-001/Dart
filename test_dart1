@@ -1,5 +1,5 @@
 void main() {
-  int nombre = 50; // Nombre à stocker
+  int nombre = 50;
   if (nombre > 70) {
     print("Le nombre est supérieur à 70");
   } else if (nombre < 70) {
