@@ -1,0 +1,10 @@
+void main() {
+  int nombre = 50; // Nombre à stocker
+  if (nombre > 70) {
+    print("Le nombre est supérieur à 70");
+  } else if (nombre < 70) {
+    print("Le nombre est inférieur à 70");
+  } else {
+    print("Le nombre est égal à 70");
+  }
+}
